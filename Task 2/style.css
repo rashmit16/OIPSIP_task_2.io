@@ -14,7 +14,7 @@ section{
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  background: url(hp.webp)no-repeat;
+  background: url(Task 2/hp.webp)no-repeat;
   background-size: cover;
   background-position: center;
 }
